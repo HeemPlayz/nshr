@@ -7,7 +7,7 @@ const youtube = new YouTube(GOOGLE_API_KEY);
 const config = {
     token : process.env.BOT_TOKEN,
     prefix : '-',
-    owner : ['452785037511753728', '488389313365540864']
+    owner : ['523836549390139392']
 };
 var prefix = config.prefix;
 var sendMessageQueue = true;
